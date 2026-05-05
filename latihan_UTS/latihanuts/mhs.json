@@ -1,0 +1,34 @@
+{
+  "Mahasiswa_list": {
+    "-001": {
+      "nama": "Muhammad Irfan",
+      "umur": 21,
+      "foto": "https://i.pravatar.cc/150?img=1",
+      "deskripsi": "Mahasiswa Informatika yang suka coding dan desain UI"
+    },
+    "-002": {
+      "nama": "Siti Aisyah",
+      "umur": 20,
+      "foto": "https://i.pravatar.cc/150?img=2",
+      "deskripsi": "Mahasiswa Sistem Informasi, tertarik pada data analyst"
+    },
+    "-003": {
+      "nama": "Budi Santoso",
+      "umur": 22,
+      "foto": "https://i.pravatar.cc/150?img=3",
+      "deskripsi": "Mahasiswa Teknik Komputer yang hobi ngoding backend"
+    },
+    "-004": {
+      "nama": "Dewi Lestari",
+      "umur": 21,
+      "foto": "https://i.pravatar.cc/150?img=4",
+      "deskripsi": "Mahasiswa desain grafis yang suka ilustrasi digital"
+    },
+    "-005": {
+      "nama": "Andi Pratama",
+      "umur": 23,
+      "foto": "https://i.pravatar.cc/150?img=5",
+      "deskripsi": "Mahasiswa jaringan komputer, fokus pada cybersecurity"
+    }
+  }
+}
